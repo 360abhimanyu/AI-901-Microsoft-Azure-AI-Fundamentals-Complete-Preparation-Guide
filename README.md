@@ -8,13 +8,13 @@ This repository serves as a one-stop solution for understanding core AI concepts
 Whether you are a student, working professional, or tech enthusiast, this repo will guide you step-by-step in your AI learning journey.
 
 🎯 Objectives<br>
-📖 Build strong fundamentals in Artificial Intelligence
-☁️ Understand Azure AI services and their real-world applications
-🧠 Learn key Machine Learning concepts without heavy coding
-📝 Prepare effectively for the AI-901 certification exam
-🚀 Gain confidence to apply AI concepts in practical scenarios
-📚 What You Will Find in This Repository
-📝 1. Detailed Notes
+📖 Build strong fundamentals in Artificial Intelligence<br>
+☁️ Understand Azure AI services and their real-world applications<br>
+🧠 Learn key Machine Learning concepts without heavy coding<br>
+📝 Prepare effectively for the AI-901 certification exam<br>
+🚀 Gain confidence to apply AI concepts in practical scenarios<br>
+📚 What You Will Find in This Repository<br>
+📝 1. Detailed Notes<br>
 
 Well-structured and simplified notes covering:
 
@@ -48,21 +48,21 @@ Language translation systems
 Recommendation engines
 AI-powered automation solutions
 🧠 Topics Covered (As per AI-901 Syllabus)
-✔️ Artificial Intelligence Workloads & Considerations
-✔️ Principles of Machine Learning on Azure
-✔️ Features of Computer Vision Workloads
-✔️ Natural Language Processing (NLP) Workloads
-✔️ Generative AI Workloads in Azure
-🚀 Learning Path (Recommended)
+✔️ Artificial Intelligence Workloads & Considerations<br>
+✔️ Principles of Machine Learning on Azure<br>
+✔️ Features of Computer Vision Workloads<br>
+✔️ Natural Language Processing (NLP) Workloads<br>
+✔️ Generative AI Workloads in Azure<br>
+🚀 Learning Path (Recommended)<br>
 
 Follow this structured path for maximum benefit:
 
-1️⃣ Start with AI Fundamentals
-2️⃣ Move to Machine Learning Concepts
-3️⃣ Learn Computer Vision & NLP
-4️⃣ Explore Azure AI Services
-5️⃣ Practice with Questions & Dumps
-6️⃣ Revise using PPTs and Notes
+1️⃣ Start with AI Fundamentals<br>
+2️⃣ Move to Machine Learning Concepts<br>
+3️⃣ Learn Computer Vision & NLP<br>
+4️⃣ Explore Azure AI Services<br>
+5️⃣ Practice with Questions & Dumps<br>
+6️⃣ Revise using PPTs and Notes<br>
 
 🛠️ Prerequisites
 Basic understanding of cloud computing (helpful but not mandatory)
