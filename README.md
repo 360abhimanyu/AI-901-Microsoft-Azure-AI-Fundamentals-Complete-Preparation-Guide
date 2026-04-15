@@ -59,6 +59,7 @@ Introduction to Generative AI
 Use cases of AI models
 Azure OpenAI overview
 🗂️ Suggested Folder Structure
+
 AI-901-Repo/
 │
 ├── Notes/
