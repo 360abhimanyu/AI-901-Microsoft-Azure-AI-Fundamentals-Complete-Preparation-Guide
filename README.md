@@ -7,7 +7,7 @@ This repository serves as a one-stop solution for understanding core AI concepts
 
 Whether you are a student, working professional, or tech enthusiast, this repo will guide you step-by-step in your AI learning journey.
 
-🎯 Objectives
+🎯 Objectives<br>
 📖 Build strong fundamentals in Artificial Intelligence
 ☁️ Understand Azure AI services and their real-world applications
 🧠 Learn key Machine Learning concepts without heavy coding
