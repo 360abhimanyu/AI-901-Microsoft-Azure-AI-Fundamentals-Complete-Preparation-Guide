@@ -56,7 +56,6 @@ AI-powered automation solutions
 🚀 Learning Path (Recommended)<br>
 
 Follow this structured path for maximum benefit:
-
 1️⃣ Start with AI Fundamentals<br>
 2️⃣ Move to Machine Learning Concepts<br>
 3️⃣ Learn Computer Vision & NLP<br>
@@ -64,7 +63,7 @@ Follow this structured path for maximum benefit:
 5️⃣ Practice with Questions & Dumps<br>
 6️⃣ Revise using PPTs and Notes<br>
 
-🛠️ Prerequisites
+🛠️ Prerequisites:
 Basic understanding of cloud computing (helpful but not mandatory)
 No coding experience required
 Curiosity to learn AI concepts
@@ -74,47 +73,43 @@ Curiosity to learn AI concepts
 ☁️ Cloud professionals exploring Azure AI services
 📚 Trainers and mentors looking for structured content
 🌟 Key Highlights
-✔️ Beginner-friendly content
-✔️ Structured and exam-focused material
-✔️ Combination of theory + practice
-✔️ Regularly updatable and scalable repository
-✔️ Designed for quick revision and long-term learning
-🤝 Contribution Guidelines
+✔️ Beginner-friendly content<br>
+✔️ Structured and exam-focused material<br>
+✔️ Combination of theory + practice<br>
+✔️ Regularly updatable and scalable repository<br>
+✔️ Designed for quick revision and long-term learning<br>
+🤝 Contribution Guidelines<br>
 
 Contributions are highly appreciated! You can:
-
-Improve existing notes
-Add new topics or explanations
-Share practice questions
-Enhance documentation or visuals
+Improve existing notes<br>
+Add new topics or explanations<br>
+Share practice questions<br>
+Enhance documentation or visuals<br>
 
 Steps to contribute:
+Fork the repository<br>
+Create a new branch<br>
+Make your changes<br>
+Submit a Pull Request<br>
 
-Fork the repository
-Create a new branch
-Make your changes
-Submit a Pull Request
-📢 Disclaimer
+📢 Disclaimer<br>
+This repository is created for educational and learning purposes only.<br>
+It is not officially affiliated with Microsoft. All trademarks and product names belong to their respective owners.<br>
 
-This repository is created for educational and learning purposes only.
-It is not officially affiliated with Microsoft. All trademarks and product names belong to their respective owners.
+🙏 Acknowledgment<br>
+Special thanks to:<br>
+Microsoft Learn Platform<br>
+Open-source contributors<br>
+AI learning communitie<br>s
+Mentors and educators supporting continuous learning<br>
+⭐ Support & Feedback<br>
 
-🙏 Acknowledgment
+If you find this repository helpful:<br>
 
-Special thanks to:
+⭐ Star this repository<br>
+🍴 Fork and contribute<br>
+📢 Share with your network<br>
+💬 Provide feedback for improvements<br>
+🔗 Stay Connected<br>
 
-Microsoft Learn Platform
-Open-source contributors
-AI learning communities
-Mentors and educators supporting continuous learning
-⭐ Support & Feedback
-
-If you find this repository helpful:
-
-⭐ Star this repository
-🍴 Fork and contribute
-📢 Share with your network
-💬 Provide feedback for improvements
-🔗 Stay Connected
-
-Let’s grow and learn together in the field of AI and Cloud 🚀
+Let’s grow and learn together in the field of AI and Cloud 🚀<br>
