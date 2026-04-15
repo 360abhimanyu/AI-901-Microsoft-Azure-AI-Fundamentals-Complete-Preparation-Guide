@@ -5,7 +5,7 @@ This repository is a comprehensive, structured, and beginner-friendly resource d
 This repository serves as a one-stop solution for understanding core AI concepts and Azure AI services. It includes curated notes, visual learning materials, and practice resources that simplify complex topics into easy-to-understand formats.
 
 Whether you are a student, working professional, or tech enthusiast, this repo will guide you step-by-step in your AI learning journey.<br>
-🎯 Objectives<br>
+🎯 Objectives:<br>
 📖 Build strong fundamentals in Artificial Intelligence<br>
 ☁️ Understand Azure AI services and their real-world applications<br>
 🧠 Learn key Machine Learning concepts without heavy coding<br>
@@ -14,34 +14,34 @@ Whether you are a student, working professional, or tech enthusiast, this repo w
 📚 What You Will Find in This Repository<br>
 📝 1. Detailed Notes<br>
 
-Well-structured and simplified notes covering:
-📊 1. Introduction to Artificial Intelligence
-AI Workloads and Responsible AI Principles
-Machine Learning fundamentals (Supervised, Unsupervised, Regression, Classification)
-Computer Vision concepts and use cases
-Natural Language Processing (NLP) fundamentals
-Generative AI basics and modern AI trends
-📊 2. PowerPoint Presentations (PPTs)
-Visually rich slides for better understanding
-Topic-wise breakdown of concepts
-Ideal for quick revision before exams
-📊 3. Practice Questions & Exam Dumps
-Real exam-oriented questions
-Scenario-based learning
-Helps identify weak areas and improve accuracy
-📊 4. Azure AI Services Overview
-Coverage of important Azure services, such as:
-Azure AI Vision
-Azure AI Language
-Azure AI Speech
-Azure OpenAI (conceptual understanding)
-Document Intelligence & Knowledge Mining
-📊 5. Real-World Use Cases
-Face detection and image analysis
-Chatbots and conversational AI
-Language translation systems
-Recommendation engines
-AI-powered automation solutions
+Well-structured and simplified notes covering:<br>
+📊 1. Introduction to Artificial Intelligence<br>
+AI Workloads and Responsible AI Principles<br>
+Machine Learning fundamentals (Supervised, Unsupervised, Regression, Classification)<br>
+Computer Vision concepts and use cases<br>
+Natural Language Processing (NLP) fundamentals<br>
+Generative AI basics and modern AI trends<br>
+📊 2. PowerPoint Presentations (PPTs)<br>
+Visually rich slides for better understanding<br>
+Topic-wise breakdown of concepts<br>
+Ideal for quick revision before exams<br>
+📊 3. Practice Questions & Exam Dumps<br>
+Real exam-oriented questions<br>
+Scenario-based learning<br>
+Helps identify weak areas and improve accuracy<br>
+📊 4. Azure AI Services Overview<br>
+Coverage of important Azure services, such as:<br>
+Azure AI Vision<br>
+Azure AI Language<br>
+Azure AI Speech<br>
+Azure OpenAI (conceptual understanding)<br>
+Document Intelligence & Knowledge Mining<br>
+📊 5. Real-World Use Cases<br>
+Face detection and image analysis<br>
+Chatbots and conversational AI<br>
+Language translation systems<br>
+Recommendation engines<br>
+AI-powered automation solutions<br>
 
 🧠 Topics Covered (As per AI-901 Syllabus)<br>
 ✔️ Artificial Intelligence Workloads & Considerations<br>
