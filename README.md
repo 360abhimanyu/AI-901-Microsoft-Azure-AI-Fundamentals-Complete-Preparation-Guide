@@ -1,12 +1,10 @@
 Welcome to the Microsoft Azure AI-901 (AI Fundamentals) Study Repository 🚀
 This repository is a comprehensive, structured, and beginner-friendly resource designed to help learners build a strong foundation in Artificial Intelligence and successfully prepare for the AI-901 certification exam.
 
-📌 Repository Overview
-
+📌 Repository Overview:
 This repository serves as a one-stop solution for understanding core AI concepts and Azure AI services. It includes curated notes, visual learning materials, and practice resources that simplify complex topics into easy-to-understand formats.
 
-Whether you are a student, working professional, or tech enthusiast, this repo will guide you step-by-step in your AI learning journey.
-
+Whether you are a student, working professional, or tech enthusiast, this repo will guide you step-by-step in your AI learning journey.<br>
 🎯 Objectives<br>
 📖 Build strong fundamentals in Artificial Intelligence<br>
 ☁️ Understand Azure AI services and their real-world applications<br>
@@ -17,8 +15,7 @@ Whether you are a student, working professional, or tech enthusiast, this repo w
 📝 1. Detailed Notes<br>
 
 Well-structured and simplified notes covering:
-
-Introduction to Artificial Intelligence
+📊 1. Introduction to Artificial Intelligence
 AI Workloads and Responsible AI Principles
 Machine Learning fundamentals (Supervised, Unsupervised, Regression, Classification)
 Computer Vision concepts and use cases
@@ -28,32 +25,31 @@ Generative AI basics and modern AI trends
 Visually rich slides for better understanding
 Topic-wise breakdown of concepts
 Ideal for quick revision before exams
-📂 3. Practice Questions & Exam Dumps
+📊 3. Practice Questions & Exam Dumps
 Real exam-oriented questions
 Scenario-based learning
 Helps identify weak areas and improve accuracy
-🔧 4. Azure AI Services Overview
-
-Coverage of important Azure services such as:
-
+📊 4. Azure AI Services Overview
+Coverage of important Azure services, such as:
 Azure AI Vision
 Azure AI Language
 Azure AI Speech
 Azure OpenAI (conceptual understanding)
 Document Intelligence & Knowledge Mining
-💡 5. Real-World Use Cases
+📊 5. Real-World Use Cases
 Face detection and image analysis
 Chatbots and conversational AI
 Language translation systems
 Recommendation engines
 AI-powered automation solutions
-🧠 Topics Covered (As per AI-901 Syllabus)
+
+🧠 Topics Covered (As per AI-901 Syllabus)<br>
 ✔️ Artificial Intelligence Workloads & Considerations<br>
 ✔️ Principles of Machine Learning on Azure<br>
 ✔️ Features of Computer Vision Workloads<br>
 ✔️ Natural Language Processing (NLP) Workloads<br>
 ✔️ Generative AI Workloads in Azure<br>
-🚀 Learning Path (Recommended)<br>
+✔️ Learning Path (Recommended)<br>
 
 Follow this structured path for maximum benefit:
 1️⃣ Start with AI Fundamentals<br>
@@ -105,7 +101,6 @@ Mentors and educators supporting continuous learning<br>
 ⭐ Support & Feedback<br>
 
 If you find this repository helpful:<br>
-
 ⭐ Star this repository<br>
 🍴 Fork and contribute<br>
 📢 Share with your network<br>
